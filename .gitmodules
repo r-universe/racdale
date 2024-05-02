@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "sindyr"]
 	path = sindyr
-	url = https://github.com/cran/sindyr
+	url = https://github.com/racdale/sindyr
